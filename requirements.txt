@@ -1,0 +1,8 @@
+pandas
+numpy
+Faker
+matplotlib
+seaborn
+streamlit
+scikit-learn
+openpyxl
